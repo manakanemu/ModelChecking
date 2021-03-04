@@ -1,0 +1,7 @@
+[
+  "{g.from != g.to and g.to != m.to}",
+  "{w.from != w.to and w.to != m.to}",
+  "{c.from != c.to and c.to != m.to}",
+  "{$CHANGES > 2}",
+  "{m.from == m.to}"
+]

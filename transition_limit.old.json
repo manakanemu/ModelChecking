@@ -1,0 +1,4 @@
+[
+  "{p.from == p.to and q.from == q.to}",
+  "{p.from != p.to and q.from != q.to}"
+]
